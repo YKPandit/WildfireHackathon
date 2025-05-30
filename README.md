@@ -27,4 +27,4 @@ tasks:
 - everything is off
 - nothing plugged in
 - close doors and windows
-- exit and get to bus/transportation
+- exit and get to meetup point
