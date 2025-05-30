@@ -21,3 +21,10 @@ items:
 - blankets if you want/time
 - masks
 - flashlight
+
+
+tasks:
+- everything is off
+- nothing plugged in
+- close doors and windows
+- 
