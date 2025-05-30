@@ -14,7 +14,7 @@ items:
 - food
 - water
 - medical / precription meds
-- clothes
+- clothes (underwear.socks)
 - contact info of people
 - cellphone and charger
 - glasses
